@@ -8,7 +8,7 @@
 
 MetaMaskを選ぶと以下のような画面で交換できるようになる。
 
-[![Kyber Swap](https://github.com/cipepser/kyber-network-sample/blob/master/img/01.png)]
+![Kyber Swap](https://github.com/cipepser/kyber-network-sample/blob/master/img/01.png)
 
 
 ## References
